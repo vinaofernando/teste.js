@@ -1,0 +1,16 @@
+body {
+    background-color: darkolivegreen;
+    text-align: center;
+    font: sans-serif 12pt ;
+}
+section {
+    background-color:white;
+    width: 800px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius:10px;
+}
+div {
+    text-align: center;
+    padding: 10px;
+}
